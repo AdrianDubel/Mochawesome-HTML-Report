@@ -1,6 +1,6 @@
 # Mochawesome-HTML-Report
 
-A great solution for creating professional HTML reports using mochawesome, allowing to present the results of our tests written  in a clear way in Cypress. 
+A great solution for creating professional HTML reports using mochawesome, allowing to present the results in a clear way of our tests written in Cypress. 
 
 ## Installation
 When your project is already built use below comments to install packeges:  
